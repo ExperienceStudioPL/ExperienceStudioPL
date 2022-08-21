@@ -5,7 +5,7 @@
 </p>
 
 
-### Out stats
+### Our stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExperienceStudioPL&show_icons=true&theme=dracula)
 
 
